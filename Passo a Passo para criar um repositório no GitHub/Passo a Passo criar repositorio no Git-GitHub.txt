@@ -23,4 +23,12 @@ O GitBash é um terminal extendido para otimizar o uso do Git.
 13-> digitar o códio "git clone + o link https copiado no seu repositório do GitHub.
 14-> Dar Enter.
 
->>> Qualquer pasta criada na pasta do seu pc, terá que dar um código no gitBash para enviar/atualizar no servidor do GitHub "Git add . ou Git add -a"
+>>> Qualquer pasta criada na pasta do seu pc, 
+terá que dar um código no gitBash para enviar/atualizar
+ no servidor do GitHub "Git add . ou Git add -a"
+
+>>>COMMITAR PARA QUE TUDO ISSO APAREÇA NO SEU REPOSITÓRIO NO GITHUB
+15-> Dar um "git commit -m ""(mensagem dentro das aspas) 
+16-> git status
+17-> git push origin main ou master - fazendo isso estaremos enviando todos os commits para a nuvem
+
