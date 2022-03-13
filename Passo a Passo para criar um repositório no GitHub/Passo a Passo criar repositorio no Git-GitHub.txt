@@ -1,0 +1,26 @@
+PASSO A PASSO PARA CRIAÇÃO DE REPOSITÓRIO NO GIT/GITHUB
+Baixar o Git: https://git-scm.com/downloads
+
+O GitBash é um terminal extendido para otimizar o uso do Git.
+
+1-> Entre em sua conta no GitHub
+2-> Clique no + na lateral superio direita e logo depois clicar em "New Repository"
+3-> Dê um nome ao repositório (sem espaços, colocar -no lugar dos espaços)
+4-> Adicionar uma discrição ao repositório, relacionado ao assunto
+5-> Deixar publico ou privado, intuitivo.
+6-> deixar marcado o "Add a README file"
+7-> Clicar em "Create repository"
+
+>>>OBS
+8-> Pode alterar o README diretamente pelo lápis e dar um Preview
+9-> Qualquer alteração será pelo Markdown
+
+>>>CRIAR CLONE DA PASTA DO PC PARA O SERVIDOR NO GITHUB
+
+10-> Copiar o link HTTPS no "Code" no seu repositorio 
+11-> Crie uma pasta em seu PC para organizar seu trabalho
+12-> abra o gitBash clicando no botão direito dentro dessa pasta em GitBash Here 
+13-> digitar o códio "git clone + o link https copiado no seu repositório do GitHub.
+14-> Dar Enter.
+
+>>> Qualquer pasta criada na pasta do seu pc, terá que dar um código no gitBash para enviar/atualizar no servidor do GitHub "Git add . ou Git add -a"
